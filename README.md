@@ -1,14 +1,10 @@
 # NBA-Outcome-Prediction
 ## Python Libraries Used
-Numpy
-
-Pandas
-
-sci-kit learn
+Numpy <br />
+Pandas <br />
+sci-kit learn <br />
 
 ## Models Used
-Decision Trees
-
-Random Forest
-
-Neural Nets
+Decision Trees <br />
+Random Forest <br />
+Neural Nets <br />
