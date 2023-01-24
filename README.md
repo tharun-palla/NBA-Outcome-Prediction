@@ -7,3 +7,4 @@ sci-kit learn
 ## Models Used
 Decision Trees
 Random Forest
+Neural Nets
